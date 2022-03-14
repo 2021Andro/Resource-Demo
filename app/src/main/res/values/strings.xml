@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Resources Demo</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="box_title">Normal Box Title</string>
+    <string name="box_massage">Normal Box Massage</string>
+    <string name="box_cancel">Cancel</string>
+    <string name="box_sure">Sure</string>
+    <string name="box_log_out_success">Log Out Success</string>
+    <string name="box_show_normal">Box Show Normal</string>
+    <string name="costume_box_show">Costume Box Show</string>
+</resources>
